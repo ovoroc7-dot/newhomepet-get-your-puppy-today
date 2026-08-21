@@ -173,7 +173,7 @@ function PuppyPage() {
                     className="rounded-lg border border-border bg-background px-3 py-2 text-center text-xs font-medium">Text</a>
                   <a href="tel:+12816283530"
                     className="rounded-lg border border-border bg-background px-3 py-2 text-center text-xs font-medium">Call</a>
-                  <a href={`mailto:johnbaritamar@gmail.com?subject=${encodeURIComponent(`Reservation for ${puppy.name} (${puppy.breed})`)}&body=${encodeURIComponent(`Hi! I'd like to reserve ${puppy.name} (${puppy.breed}) for $${puppy.price}.`)}`}
+                  <a href={`mailto:vernasewak5805@hotmail.com?subject=${encodeURIComponent(`Reservation for ${puppy.name} (${puppy.breed})`)}&body=${encodeURIComponent(`Hi! I'd like to reserve ${puppy.name} (${puppy.breed}) for $${puppy.price}.`)}`}
                     className="rounded-lg border border-border bg-background px-3 py-2 text-center text-xs font-medium">Email</a>
                 </div>
               </div>
