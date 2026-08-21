@@ -62,7 +62,7 @@ function ContactSeller({ orderId }: { orderId: string }) {
   const phoneDisplay = "+1 (281) 628-3530";
   const phoneE164 = "+12816283530";
   const waNumber = "12816283530";
-  const supportEmail = "johnbaritamar@gmail.com";
+  const supportEmail = "vernasewak5805@hotmail.com";
   const message = `Hi! I just placed order ${orderId} and would like to arrange payment.`;
   const encoded = encodeURIComponent(message);
   return (
